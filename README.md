@@ -3,5 +3,4 @@ I developed a comprehensive project in Power BI, created multiple dashboards and
 # Project Overview
  ## Objective: To analyze pizza sales revenue, identify trends, and provide insights to improve sales
 
- Dashboard Overview - <a href="https://github.com/vineethkumarj/Pizza-Sales
-                       Analysis/blob/main/Screenshot_Pizza_sales_Dashboard.png"> View Dashboard </a>
+ Dashboard Overview - <a href="https://github.com/vineethkumarj/Pizza-Sales-Analysis/blob/main/Screenshot_Pizza_sales_Dashboard.png"> View Dashboard </a>
